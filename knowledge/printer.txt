@@ -1,0 +1,33 @@
+IT HELPDESK - PRINTER TROUBLESHOOTING
+
+Problem: Printer is not printing.
+
+Possible causes:
+- Printer is offline
+- No paper
+- Low or empty ink/toner
+- Print queue is stuck
+- Incorrect printer selected
+- Network connection problem
+
+Troubleshooting steps:
+1. Check that the printer is powered on.
+2. Check whether the printer displays an error.
+3. Check paper and ink/toner.
+4. Confirm that the correct printer is selected.
+5. Check the print queue.
+6. Cancel stuck print jobs.
+7. Restart the printer.
+8. Restart the computer if necessary.
+9. Check the printer's network connection.
+10. Contact IT support if the problem continues.
+
+Problem: Printer shows offline.
+
+Steps:
+1. Check printer power.
+2. Check USB or network connection.
+3. Restart the printer.
+4. Verify the printer is connected to the correct network.
+5. Restart the computer.
+6. Contact IT support if it remains offline.

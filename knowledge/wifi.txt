@@ -1,0 +1,35 @@
+IT HELPDESK KNOWLEDGE BASE
+CATEGORY: WIFI AND INTERNET
+
+Problem: Wi-Fi connected but internet is not working.
+
+Possible causes:
+- Temporary network failure
+- Router problem
+- DNS problem
+- Incorrect IP configuration
+- Network adapter problem
+
+Troubleshooting steps:
+
+1. Check whether other devices can access the internet.
+2. Disconnect and reconnect to Wi-Fi.
+3. Make sure Airplane Mode is disabled.
+4. Restart the computer.
+5. Restart the network adapter.
+6. Try opening another website.
+7. Restart the router if permitted.
+8. If other devices also have no internet, contact the network administrator.
+9. If only this computer has the problem, contact the IT Helpdesk.
+
+Problem: Wi-Fi network is not visible.
+
+Troubleshooting steps:
+
+1. Make sure Wi-Fi is enabled.
+2. Make sure Airplane Mode is disabled.
+3. Move closer to the access point.
+4. Refresh available Wi-Fi networks.
+5. Restart the computer.
+6. Check whether other devices can see the network.
+7. Contact IT support if the wireless adapter is not detected.

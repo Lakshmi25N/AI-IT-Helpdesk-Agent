@@ -1,0 +1,36 @@
+IT HELPDESK - WINDOWS SYSTEM TROUBLESHOOTING
+
+Problem: Computer is running slowly.
+
+Possible causes:
+- Too many applications running
+- Insufficient available storage
+- Background processes
+- Pending system updates
+
+Troubleshooting:
+1. Close unnecessary applications.
+2. Restart the computer.
+3. Check available storage.
+4. Install approved system updates.
+5. Check whether the problem occurs with a particular application.
+6. Contact IT support if the problem continues.
+
+Problem: Application is not responding.
+
+Steps:
+1. Wait briefly to see whether the application recovers.
+2. Close unnecessary applications.
+3. Restart the affected application.
+4. Restart the computer.
+5. Check for approved application updates.
+6. Contact IT support if the application continues to fail.
+
+Problem: Computer will not start normally.
+
+Steps:
+1. Check the power connection.
+2. Disconnect unnecessary peripherals.
+3. Restart the computer.
+4. Record any error message displayed.
+5. Contact IT support if the computer still cannot start.
